@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Bor012/Desktop/te/main",
-      "program": "c:/Users/Bor012/Desktop/te/main/build/Debug/outDebug",
+      "cwd": "c:/Users/Bor012/Desktop/git/main",
+      "program": "c:/Users/Bor012/Desktop/git/main/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
